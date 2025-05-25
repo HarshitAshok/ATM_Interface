@@ -1,0 +1,4 @@
+Transferred: 2000.0
+Date: Sun May 25 12:15:43 IST 2025
+Account Number: 1112
+Remaining Balance: 7000.0

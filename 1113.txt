@@ -1,0 +1,13 @@
+Account Created!
+Account Number: 1113
+USER ID- : dhruv_20
+Account Holder Name: Dhruv
+PIN: 3446
+Balance: 5000.0
+Date: Sun May 25 12:13:08 IST 2025
+
+
+Deposit: 2000.0
+Date: Sun May 25 12:15:43 IST 2025
+Amount Number: 1113
+Remaining Amount: 7000.0

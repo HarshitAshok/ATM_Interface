@@ -1,0 +1,14 @@
+First we will create 5 account by the following parameters:
+
+
+------NAME------|----USER_ID-----|-----INITIAL_DEPOSIT-----|-----PIN-----|
+--------------------------------------------------------------------------
+Himanshu        | himan_20       | 10000                   | 1224        |
+Akash           | akash_20       | 5000                    | 2335        |
+Dhruv           | dhruv_20       | 5000                    | 3446        |
+--------------------------------------------------------------------------
+
+1. Withdraw 5000/- from Himanshu and check the updated balance in transaction history.
+2. Deposit 4000/- to Akash and check the updated balance.
+3. Transfer 2000/- from Akash to Dhruv and then check the updated balance.
+4. Check the transaction history of all 5 account.
